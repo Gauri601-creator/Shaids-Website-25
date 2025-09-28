@@ -24,7 +24,7 @@ const Wrkshop = () => {
         <p className="text-white text-center md:text-left font-Outfit max-w-3xl md:max-w-6xl mb-8">
           Beyond Bytes is an immersive workshop designed to bridge the gap
           between imagination and innovation. Hosted under the visionary Shaids
-          Department, this hands-on session dives into cutting-edge technology,
+          Department, this hands-on session dives into cutting-edge technology
           equipping participants with practical skills and creative insights.{" "}
           <br />
           Join us to push boundaries, explore new dimensions in tech, and take
