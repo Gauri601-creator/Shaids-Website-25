@@ -80,7 +80,7 @@ const Wrkshop = () => {
               <div className="w-full sm:w-[30%] aspect-[9/16] max-h-[38rem] rounded-xl border border-purple-400 shadow-lg overflow-hidden">
                 <video
                   src="https://ik.imagekit.io/igsnxowfs/events/2023-24/Beyond%20Bytes(workshop)/beyond%20bytes%2023-24.mp4?updatedAt=1760809480856"
-                  controls autoPlay unmuted loop playsInline
+                  controls autoPlay muted loop playsInline
                   className="w-full h-full object-cover"
                 ></video>
               </div>
@@ -103,7 +103,7 @@ const Wrkshop = () => {
               <div className="w-full sm:w-[30%] aspect-[9/16] max-h-[38rem] overflow-hidden rounded-xl border border-purple-400 shadow-lg">
                 <video
                   src="https://ik.imagekit.io/igsnxowfs/events/2024-25/Beyond%20Bytes/beyond%20bytes%2024-25.mp4?updatedAt=1760808276207"
-                  controls autoPlay unmuted loop playsInline
+                  controls autoPlay muted loop playsInline
                   className="w-full h-full object-cover"
                 ></video>
               </div>
